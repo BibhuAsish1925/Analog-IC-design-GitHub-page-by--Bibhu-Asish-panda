@@ -10,6 +10,17 @@
 - Proficiency in analog circuit design and analysis.
 - Mastery of design tools: ngspice, xscheme, magic, netgen & Python.
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/62df90e0-b4e2-4d9e-ba7d-1e3ca3718a50" /><br/>
+    </td>
+    <td align="center">
+      <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/cfe64388-e644-4e0d-aedf-482a23811add" /><br/>
+    </td>
+  </tr>
+</table>
+
 ### COURSE DETAIlL
 ***1. Introduction to an electronic system design, a plug-n-play USB-MIDI microphone.***
  - Microphone pre-amplifier and interface circuit design.
