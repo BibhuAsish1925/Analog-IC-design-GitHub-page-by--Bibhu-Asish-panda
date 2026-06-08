@@ -185,6 +185,25 @@ THD(Total Harmonic Distortion) = 28.52%
 
 ![image](https://github.com/user-attachments/assets/d4310898-a792-4a4a-85e1-f0abdfcc3c24)
 
+### Simulating Diode Behavior in Ngspice
+
+<img width="3106" height="4096" alt="image" src="https://github.com/user-attachments/assets/374a0b29-de75-4326-a496-a982384fc1f1" />
+
+### Siliwiz
+
+SiliWiz is a free, browser-based educational tool that visualizes how semiconductors and integrated circuits are fabricated at the polygon level. It allows users to draw transistor layouts (NMOS, PMOS), resistors, capacitors, and even CMOS logic gates—and instantly view the SPICE simulation and extracted results
+
+<img width="1766" height="858" alt="image" src="https://github.com/user-attachments/assets/f413cffb-702b-4673-be9c-67e1dae4b9b4" />
+
+### Interfacing MEMS Microphone with Digilent Analog Discovery 2
+
+In this experiment, the Digilent Analog Discovery 2 was employed to capture and analyze the analog output of a MEMS microphone. The microphone was connected using jumper wires to the device’s analog input channels. Real-time waveforms produced by ambient sound were visualized using the WaveForms software. This configuration enabled observation of the microphone’s signal behavior and facilitated analysis of its frequency response.
+
+<img width="3108" height="3108" alt="image" src="https://github.com/user-attachments/assets/e9980fae-3f77-4ccd-965e-e3e01f372ffe" />
+<img width="3108" height="4096" alt="image" src="https://github.com/user-attachments/assets/ef5f889c-666b-4da8-bfd0-8871496008c3" />
+
+
+
 ***REVIEW :***
 - From the OPA-344 datasheet the gain is 120dB and the THD is 0.06%.
 1. For the common source differential amplifier which I have designed the gain is comming to be around 21dB which is very low.
