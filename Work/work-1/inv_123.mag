@@ -1,0 +1,34 @@
+magic
+tech sky130A
+timestamp 1747903231
+<< error_p >>
+rect 5 75 15 83
+rect -3 65 23 75
+rect 5 57 15 65
+<< nwell >>
+rect -30 -11 165 265
+<< nmos >>
+rect 30 -180 50 -125
+<< pmos >>
+rect 30 30 50 85
+<< ndiff >>
+rect 0 -180 30 -125
+rect 50 -180 110 -125
+<< pdiff >>
+rect 0 75 30 85
+rect 0 65 5 75
+rect 15 65 30 75
+rect 0 30 30 65
+rect 50 30 110 85
+<< pdiffc >>
+rect 5 65 15 75
+<< poly >>
+rect 30 85 50 99
+rect 30 -125 50 30
+rect 30 -205 50 -180
+<< metal1 >>
+rect -30 194 139 245
+rect 0 50 25 194
+rect 0 -235 25 -125
+rect -5 -270 110 -235
+<< end >>
